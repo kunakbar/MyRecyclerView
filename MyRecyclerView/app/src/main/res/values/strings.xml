@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+    string>
+    <string name="vegetables_name">Nama Sayuran</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Kangkung</item>
+        <item>Bayam</item>
+        <item>Brokoli</item>
+        <item>Kentang</item>
+        <item>Genjer</item>
+        <item>Wortel</item>
+        <item>Mentimun</item>
+        <item>Seledri</item>
+        <item>Asparagus</item>
+        <item>Tomat</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kangkung (Ipomoea aquatica Forsk.) adalah tumbuhan yang termasuk jenis sayur-sayuran dan ditanam sebagai makanan. Kangkung banyak dijual di pasar-pasar. Kangkung banyak terdapat di kawasan Asia dan merupakan tumbuhan yang dapat dijumpai hampir di mana-mana terutama di kawasan berair.</item>
+        <item>Bayam (Amaranthus)adalah tumbuhan yang biasa ditanam untuk dikonsumsi daunnya sebagai sayuran hijau. Tumbuhan ini berasal dari Amerika tropik namun sekarang tersebar ke seluruh dunia. Tumbuhan ini dikenal sebagai sayuran sumber zat besi yang penting bagi tubuh.</item>
+        <item>Brokoli (Brassica oleracea L. Kelompok Italica) adalah tanaman sayuran yang termasuk dalam suku kubis-kubisan atau Brassicaceae. Brokoli berasal dari daerah Laut Tengah dan sudah sejak masa Yunani Kuno dibudidayakan. Sayuran ini masuk ke Indonesia belum lama (sekitar 1970-an) dan kini cukup populer sebagai bahan pangan.</item>
+        <item>Kentang (Solanum tuberosum L.) adalah tanaman dari suku Solanaceae yang memiliki umbi batang yang dapat dimakan dan disebut "kentang" pula. Umbi kentang sekarang telah menjadi salah satu makanan pokok penting di Eropa walaupun pada awalnya didatangkan dari Amerika Selatan.</item>
+        <item>Genjer,[1] kelayan[2] atau eceng[3] (Limnocharis flava) adalah sejenis tumbuhan rawa yang banyak dijumpai di sawah atau perairan dangkal. Biasanya ditemukan bersama-sama dengan eceng gondok. Dalam bahasa internasional dikenal sebagai limnocharis, sawah-flower rush, sawah-lettuce, velvetleaf, yellow bur-head, atau cebolla de chucho. Nama "paku rawan" agak menyesatkan karena genjer sama sekali bukan anggota tumbuhan paku.</item>
+        <item>Wortel adalah tumbuhan biennial (siklus hidup 12 - 24 bulan) yang menyimpan karbohidrat dalam jumlah besar untuk tumbuhan tersebut berbunga pada tahun kedua. Batang bunga tumbuh setinggi sekitar 1 m, dengan bunga berwarna putih, dan rasa yang manis langu. Bagian yang dapat dimakan dari wortel adalah bagian umbi atau akarnya.</item>
+        <item>Mentimun, timun, atau ketimun (Cucumis sativus L.; suku labu-labuan atau Cucurbitaceae) merupakan tumbuhan yang menghasilkan buah yang dapat dimakan. Buahnya biasanya dipanen ketika belum masak benar untuk dijadikan sayuran atau penyegar, tergantung jenisnya. Mentimun dapat ditemukan di berbagai hidangan dari seluruh dunia dan memiliki kandungan air cukup banyak di dalamnya sehingga berfungsi menyejukkan.</item>
+        <item>Seledri (Apium graveolens L.) adalah sayuran daun dan tumbuhan obat yang biasa digunakan sebagai bumbu masakan. Beberapa negara termasuk Jepang, Cina dan Korea mempergunakan bagian tangkai daun sebagai bahan makanan. Di Indonesia tumbuhan ini diperkenalkan oleh penjajah Belanda dan digunakan daunnya untuk menyedapkan sup atau sebagai lalap.</item>
+        <item>Asparagus, dalam pengertian umum, adalah suatu jenis sayuran dari satu spesies tumbuhan genus Asparagus, terutama batang muda dari Asparagus officinalis. Asparagus telah digunakan sejak lama sebagai bahan makanan karena rasanya yang sedap dan sifat diuretiknya. Dengan adanya sifat diuretik tersebut, asparagus berkhasiat untuk memperlancar saluran urin sehingga mampu memperbaiki kinerja ginjal</item>
+        <item>Tomat (Solanum lycopersicum syn. Lycopersicum esculentum) adalah tumbuhan dari keluarga Solanaceae, tumbuhan asli Amerika Tengah dan Selatan, dari Meksiko sampai Peru. Tomat merupakan tumbuhan siklus hidup singkat, dapat tumbuh setinggi 1 sampai 3 meter. Tumbuhan ini memiliki buah berawarna hijau, kuning, dan merah yang biasa dipakai sebagai sayur dalam masakan atau dimakan secara langsung tanpa diproses.</item>
+    </string-array>
+    <array name="data_photo">
+        <item>kangkung</item>
+        <item>bayam</item>
+        <item>brokoli</item>
+        <item>kentang</item>
+        <item>genjer</item>
+        <item>wortel</item>
+        <item>mentimun</item>
+        <item>seledri</item>
+        <item>asparagus</item>
+        <item>tomat</item>
+    </array>
+</resources>
